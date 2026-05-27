@@ -7,4 +7,4 @@
 5. Apartat final amb conclusions i aprenentatges.
 
 # Enllaços als repositoris GitHub.
-
+https://github.com/polhernandezgit/Projecte2

@@ -20,5 +20,5 @@
 - *KANBAN Consultoria EverPia:* https://planner.cloud.microsoft/webui/plan/iNGSRAQdL0G3vtZjhclOI5YACSdw/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
 
 # Explicació resumida dels projectes.
-
+- *P01:* 
  

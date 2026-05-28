@@ -36,7 +36,7 @@ Aquest va ser el primer projecte del curs i consistia prinicpalment en treballar
 El segon projecte ja complicava les coses. Consistia en començar amb una empresa que es diu EverPia i la implementació de protocols imprescindibles de serveis com el DHCP i el hosting.
 
 ### *P03:* 
-Aquest és com la segona part de la empresa començada en el P02 i es basava en una empresa que ja estava en funcionament i tenia que treballar per satisfer necessitats de clients i la utilització de més protocols com LDAP.
+Aquest és com la segona part de la empresa començada en el P02 i es basava en una empresa que ja estava en funcionament i tenia que treballar per mantenir una empresa que està en constant creixement en tots els àmbits, (clients, problemes, pressupost) i la implementació de més protocols com LDAP.
 
 ### *P04:* 
 En aquest projecte és el començament de algo nou, ja que en aquest punt ja no som júniors, ara som persones que saben treballar per si soles amb exigencia. Vam fer tasques com utilitzar acces remot o vam aprendre a disenyar amb figma.

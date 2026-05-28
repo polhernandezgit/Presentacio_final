@@ -45,14 +45,14 @@ En aquest projecte és el començament de algo nou, ja que en aquest punt ja no 
 En aquest projecte vam fer un salt més dirigit cap a la vida real, ja que vam haver de treballar solucionant tasques a clients veient els problemes, proposant solucions justificades, fer-los funcionar, etc. Algunes tascques clares d'aquest salt és el us de Windows Server.
 
 ### *P06:* 
-Projecte Nexus vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics i demana que aquesta plataforma es construeixi sobre una infraestructura de servidor eficient, sostenible i amb costos controlats. Per aquest motiu en aquest projecte vam treballar amb diferents metodologies com Apache i Nginx o Moodle i Canvas i fer comparacions.
+Projecte Nexus vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics i demana que aquesta plataforma es construeixi sobre una infraestructura de servidor eficient, sostenible i amb costos controlats. Per aquest motiu en aquest projecte vam treballar amb diferents aplicacions com Apache i Nginx o Moodle i Canvas i fer comparacions.
 
 ### *P07:* 
 Després de mesos de planificació i creixement, la nostre empresa ja està totalment operativa, però ara arriba el moment de la veritat: guanyar-nos la confiança dels clients i expandir el nostre propi negoci.
 En aquest projecte hem treballat en paral·lel en dos grans fronts: cobrir les necessitats d'un client real en plena expansió i consolidar la presència a la xarxa de la nostra pròpia empresa.
 
 ### *P08:* 
-Com a futurs tècnics en Sistemes Microinformàtics i Xarxes, la nostra missió en aquest projecte intermodular ha sigut actuar com a consultors tecnològics per a un negoci local. No només hem de resoldre les seves mancances tècniques, sinó que hem demostrat que la tecnologia pot ser una aliada del medi ambient.
+Com a futurs tècnics en Sistemes Microinformàtics i Xarxes, la nostra missió en aquest projecte ha sigut actuar com a consultors tecnològics per a un negoci local. No només hem de resoldre les seves mancances tècniques, sinó que hem demostrat que la tecnologia pot ser una aliada del medi ambient.
 
 # conclusions i aprenentatges.
 Durant el llarg treball d'aquest curs i amb aquests projectes he après que si volem arribar a ser persones aplicades, responsables i llestes per el món laboral, hem de tenir constancia i sobre tot, no biaxar el cap quan algo no surt com nosaltres volem, perquè encara que sigui impossible, la majoria dels casos es poden trobar solucions i seguir endavant. També crec que amb la exigencia del treball i les pràctiques, en aques curs he aprés moltes més coses de les que em puc imaginar i que seran una gran ajuda per el meu futur.

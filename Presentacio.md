@@ -1,4 +1,4 @@
-# Índex de la defensa
+# Índex
 1. Enllaços als repositoris GitHub.
 2. Enllaços a documentació rellevant.
 3. Explicació resumida dels projectes.

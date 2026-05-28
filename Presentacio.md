@@ -19,6 +19,15 @@
 - *KANBAN projecte 4:* https://planner.cloud.microsoft/webui/plan/PNOVYNMkMkOYH8OAspv90JYAGyNf/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
 - *KANBAN Consultoria EverPia:* https://planner.cloud.microsoft/webui/plan/iNGSRAQdL0G3vtZjhclOI5YACSdw/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
 
+### Documents d'instruccions dels projectes
+- *Document P01*: https://docs.google.com/document/d/1jDWEedM7QYOM9GDpSKxQYTwa1-SNoTe4/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P02*: https://docs.google.com/document/d/1T-ZolnNG4M_l87NFgdeywkjHU5JEy2Zk/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P03*: https://docs.google.com/document/d/1pmPUfepamfRqLaISejMKvwlwHOt5WVmh/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P04*: https://docs.google.com/document/d/1VulXbtUf8-QMwnKRvd_sY5IVLjWcDqXs/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P05*: https://docs.google.com/document/d/1_8Tt_eRl6O6JmPEjX-yZ1EoPQcA4MRjU/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P06*: https://docs.google.com/document/d/1dyntLKYDdo1CpgM7ZmHbXXD5VhMYAe9-/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+- *Document P07*: https://docs.google.com/document/d/1-bj8wLEwN5CsDi72T5YBS2x--U9V90SN/edit?usp=drive_link&ouid=114239229351179695687&rtpof=true&sd=true
+
 # Explicació resumida dels projectes.
 ### *P01:* 
 Aquest va ser el primer projecte del curs i consistia prinicpalment en treballar la gestio del treball amb KANBAN i recordatoris de temaris del curs passat.

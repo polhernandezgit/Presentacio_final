@@ -54,6 +54,6 @@ En aquest projecte hem treballat en paral·lel en dos grans fronts: cobrir les n
 ### *P08:* 
 Com a futurs tècnics en Sistemes Microinformàtics i Xarxes, la nostra missió en aquest projecte ha sigut actuar com a consultors tecnològics per a un negoci local. No només hem de resoldre les seves mancances tècniques, sinó que hem demostrat que la tecnologia pot ser una aliada del medi ambient.
 
-# conclusions i aprenentatges.
+# Conclusions i aprenentatges.
 Durant el llarg treball d'aquest curs i amb aquests projectes he après que si volem arribar a ser persones aplicades, responsables i llestes per el món laboral, hem de tenir constancia i sobre tot, no biaxar el cap quan algo no surt com nosaltres volem, perquè encara que sigui impossible, la majoria dels casos es poden trobar solucions i seguir endavant. També crec que amb la exigencia del treball i les pràctiques, en aques curs he aprés moltes més coses de les que em puc imaginar i que seran una gran ajuda per el meu futur.
  
